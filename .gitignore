@@ -12,3 +12,11 @@ helper
 *.iws
 .directory
 *.log
+.gradle
+*.log
+gradlew*
+gradle/*
+
+
+
+srcGen/*
